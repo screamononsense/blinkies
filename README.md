@@ -134,16 +134,16 @@ stamps
 <img width="99" height="57" alt="Tumblr_l_462285127752113" src="https://github.com/user-attachments/assets/76eefbfc-ccfc-45ea-a3cd-cacb8a1db259" />
 <img width="99" height="56" alt="Tumblr_l_462273412529083" src="https://github.com/user-attachments/assets/6fe2fad4-224b-4fdb-bbe9-c43934aa7fe4" />
 <img width="99" height="55" alt="Tumblr_l_462271604756353" src="https://github.com/user-attachments/assets/ff04a2b9-2851-4a96-81a2-99ea18cbeb69" />
-<img width="101" height="57" alt="Tumblr_l_462270094645931" src="https://github.com/user-attachments/assets/ab1eab86-f0cf-42b5-b5a1-bc1a31174e30" />
-<img width="101" height="57" alt="Tumblr_l_462268413919509" src="https://github.com/user-attachments/assets/a9b0ad5a-1f1b-4391-9c5f-e77a4b11fdc2" />
-<img width="150" height="84" alt="Tumblr_l_462253194180713" src="https://github.com/user-attachments/assets/53b3d02c-deb8-4863-b6de-5700e8c4cdab" />
-<img width="150" height="84" alt="Tumblr_l_462255358325096" src="https://github.com/user-attachments/assets/584ae1e8-8b49-4905-863a-38f21c14ebfb" />
+<img width="99" height="56" alt="Tumblr_l_462270094645931" src="https://github.com/user-attachments/assets/ab1eab86-f0cf-42b5-b5a1-bc1a31174e30" />
+<img width="99" height="56" alt="Tumblr_l_462268413919509" src="https://github.com/user-attachments/assets/a9b0ad5a-1f1b-4391-9c5f-e77a4b11fdc2" />
+<img width="99" height="56" alt="Tumblr_l_462253194180713" src="https://github.com/user-attachments/assets/53b3d02c-deb8-4863-b6de-5700e8c4cdab" />
+<img width="99" height="56" alt="Tumblr_l_462255358325096" src="https://github.com/user-attachments/assets/584ae1e8-8b49-4905-863a-38f21c14ebfb" />
 <img width="99" height="56" alt="Tumblr_l_462208993641552" src="https://github.com/user-attachments/assets/85bbaea1-729e-4a05-8f6b-da5855d72be3" />
-<img width="198" height="112" alt="Tumblr_l_462141975758215" src="https://github.com/user-attachments/assets/5f2dbb66-98b0-417f-b43f-767ebdfaf60c" />
-<img width="198" height="112" alt="Tumblr_l_462143437855637" src="https://github.com/user-attachments/assets/0ee2e9f9-772d-4d88-8fd3-6b5059d21892" />
-<img width="198" height="112" alt="Tumblr_l_462140306075063" src="https://github.com/user-attachments/assets/7fa0eb37-e8b1-4b2b-882b-cb4bccd6163a" />
-<img width="198" height="112" alt="Tumblr_l_462137871503372" src="https://github.com/user-attachments/assets/4c40c40f-9b20-44b4-93c8-3581e64970a0" />
-<img width="198" height="112" alt="Tumblr_l_462134229010375" src="https://github.com/user-attachments/assets/b0e9d44c-2e39-476f-a1d7-c04e82c3e711" />
+<img width="99" height="56" alt="Tumblr_l_462141975758215" src="https://github.com/user-attachments/assets/5f2dbb66-98b0-417f-b43f-767ebdfaf60c" />
+<img width="99" height="56" alt="Tumblr_l_462143437855637" src="https://github.com/user-attachments/assets/0ee2e9f9-772d-4d88-8fd3-6b5059d21892" />
+<img width="99" height="56" alt="Tumblr_l_462140306075063" src="https://github.com/user-attachments/assets/7fa0eb37-e8b1-4b2b-882b-cb4bccd6163a" />
+<img width="99" height="56" alt="Tumblr_l_462137871503372" src="https://github.com/user-attachments/assets/4c40c40f-9b20-44b4-93c8-3581e64970a0" />
+<img width="99" height="56" alt="Tumblr_l_462134229010375" src="https://github.com/user-attachments/assets/b0e9d44c-2e39-476f-a1d7-c04e82c3e711" />
 
 
 
