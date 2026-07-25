@@ -86,6 +86,7 @@ blinkies
 <img width="150" height="20" alt="121824860_ZvxCKMuacCLFCFJ" src="https://github.com/user-attachments/assets/b5c5a32e-b9d4-4ba8-92b5-e36a79379e5c" />
 <img width="150" height="20" alt="0161-genderqueer" src="https://github.com/user-attachments/assets/6a4db587-f997-4de4-b733-0dc9dccc599e" />
 <img width="150" height="20" alt="blinkiesCafe-G0" src="https://github.com/user-attachments/assets/91a1a503-c58b-49b2-8137-81800807e751" />
+<img width="150" height="20" alt="my-blinkie" src="https://github.com/user-attachments/assets/54abe8c5-0b93-4894-8ea5-0808cff60b0f" />
 
 
 
